@@ -224,11 +224,11 @@ strtok(const string[], &index)
 
 main()
 {
-	print("Gamemodes");
-	print("---------");
-    print("  Loading gamemode 'SUSS.amx'...");
+    print("Gamemodes");
+    print("---------");
+    print("  Loading gamemode...");
     print("  Loaded successful.");
-	print("  Loaded 1 gamemode.");
+    print("  Loaded 1 gamemode.");
     worldTime = 12;
 }
 
