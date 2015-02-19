@@ -229,7 +229,6 @@ main()
     print("  Loading gamemode 'SUSS.amx'...");
     print("  Loaded successful.");
 	print("  Loaded 1 gamemode.");
-	print(" ");
     worldTime = 12;
 }
 
